@@ -47,10 +47,13 @@ As a data analyst at a finance company, your goal is to minimize financial risks
 ✔️ **Screenshots of EDA (Univariate, Segmented Univariate, Bivariate Analysis)**  
 ✔️ **Detailed Report on Findings & Insights** 📑  
 
-## 📌 Key Takeaways  
-- Risk analytics can **optimize loan approval decisions** and reduce financial losses.  
-- Identifying patterns in **customer attributes & loan attributes** helps improve credit policies.  
-- Data preprocessing and visualization provide **clear insights** for decision-making.  
+## 🚀 Final Conclusion & Business Recommendations  
+
+🔹 **Risk-Based Loan Approval** – Implement a risk scoring model to minimize defaults.  
+🔹 **Optimized Credit Policies** – Refine policies using data insights to balance risk and growth.  
+🔹 **Better Customer Segmentation** – Personalize loan offers based on applicant profiles.  
+🔹 **Enhanced Fraud Detection** – Identify high-risk applications using outlier analysis.  
+🔹 **Data-Driven Decisions** – Use EDA insights to improve loan approval strategies.  
 
 ## 🖼️ Screenshots  
 ![Uni](https://github.com/lakshayNewatia/Bank-Loan-Analysis/blob/6662754d3afdf204fccd17927eb99e8071a87b67/Univariate%20Analysis.png)
