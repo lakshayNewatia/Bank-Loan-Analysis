@@ -1,4 +1,4 @@
-# 📊 Bank Loan Case Analysis   
+# 📊 Bank Loan Case Analysis| Excel & SQL 
 
 ## 📖 Project Overview  
 This project analyzes loan application data to identify key factors influencing loan defaults. Using **Exploratory Data Analysis (EDA)** in Excel, we uncover patterns that help in making data-driven loan approval decisions.  
